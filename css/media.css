@@ -1,0 +1,205 @@
+
+@media only screen and (min-width: 200px) and (max-width: 575px){
+
+    header h1 {
+        color: #0ACEFE;
+        font-size: 35px;
+        padding-top:10px ;
+        cursor: pointer;
+    }
+    
+    header h1 span {
+        color: black;
+        font-size: 25px;
+    }
+    
+
+    
+    .btn-outer {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        padding: 10px;
+        z-index: 1000;
+        background: white;
+        box-shadow: 0 -2px 10px rgba(0,0,0,0.1);
+        display: flex;
+        justify-content: center;
+        gap: 15px;
+    }
+    
+    .whatsapp-btn, 
+    .call-us {
+        padding: 8px 12px;
+        font-size: 14px;
+    }
+
+    .whatsapp-btn, .call-us {
+        padding: 7px 15px;
+        font-size: 14px;
+    }
+    
+    .banner-content h1 {
+        font-size: 28px;
+        text-align: center;
+        line-height: 35px;
+    }
+
+    .banner-content br {
+        display: none;
+    }
+
+    .banner-content p,.banner-content ul li, .highlights-section p ,.career-section p {
+        font-size: 14px ;
+    }
+
+    .banner-content-btn .demo-btn, .banner-content-btn .download-btn {
+        font-size: 16px;
+    }
+
+    .banner-content-btn  {
+        flex-direction: column;
+    }
+    
+    .banner-content-btn button {
+        width: 100%;
+    }
+
+    .banner-form {
+        padding: 20px;
+    }
+
+    .counter-section h2 {
+        font-size: 25px;
+        font-weight: bold;
+    }
+    
+    
+    .counter-section p {
+        font-size: 14px;
+        color: #43505B;
+    }
+
+    .highlights-section h2 {
+        font-size: 28px;
+    }
+
+    .highlights-Items h4 {
+        font-size: 18px;
+        line-height: 20px;
+    }
+
+    .highlights-Items h4 br {
+        display: none;
+    }
+
+    .highlights-Items p {
+        line-height: 16px;
+    }
+
+    .highlights-Items img {
+        width: 70px;
+    }
+
+    .highlights-section button {
+        padding: 8px 30px;
+        font-weight: 600;
+    }
+
+
+
+    .career-section h3  {
+        font-size: 28px;
+    }
+
+  
+
+    .career-item .img {
+        
+        width: 40px ;
+        height: 40px;
+    }
+
+    .career-item .img img {
+        width: 28px;
+    }
+
+    .career-item h4 {
+        font-size: 16px;
+    }
+
+    .career-item p {
+        font-size: 14px;
+    }
+
+    .curriculum-section h2 {
+        font-size: 28px;
+    }
+
+    .curriculum-section p {
+        font-size: 14px;
+    }
+
+    .curriculum-section .download-btn {
+        font-size: 16px;
+    }
+
+    .curric-content {
+        font-size: 15px;
+    }
+
+    .curric-content h4 {
+        font-size: 18px;
+    }
+
+
+    .learn-container p {
+        font-size: 14px;
+    }
+
+    .learn-item img {
+        width: 50px;
+    }
+
+
+    .faq-section h3  {
+        font-size: 28px;
+    }
+    .faq-section p {
+        font-size: 14px;
+    }
+
+    .faq-btn {
+        font-size: 15px;
+        font-weight: 400;
+      }
+
+    .faq-item-body {
+        font-size: 14px;
+        padding: 25pxpx;
+    }
+
+
+
+
+
+}
+
+@media (min-width: 1400px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+        max-width: 1170px;
+    }
+
+}
+
+
+[data-aos] {
+    transition-property: transform, opacity;
+  }
+  
+  /* Optional: Add some spacing between sections for better animation triggering */
+  section {
+    padding: 60px 0;
+    position: relative;
+  }
