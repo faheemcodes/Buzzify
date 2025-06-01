@@ -1,6 +1,6 @@
-# 🎵 Buzzify - Modern Music Player
+# 🚀 Buzzify - Bootstrap-Powered Responsive Website
 
-A sleek, responsive music player web application with a dark theme aesthetic and intuitive controls. Built with pure HTML, CSS, and JavaScript.
+A modern, responsive website template built with Bootstrap 5, showcasing clean design principles and mobile-first development.
 
 🔗 **[Live Demo](https://faheemcodes.github.io/Buzzify/)**  
 💻 **[GitHub Repository](https://github.com/faheemcodes/Buzzify)**
@@ -11,45 +11,48 @@ A sleek, responsive music player web application with a dark theme aesthetic and
 
 ## ✨ Features
 
-- 🎧 **Full Playback Controls** (Play/pause, skip, volume)
-- 🔄 **Progress Tracking** (Visual seek bar with time display)
-- 🎨 **Dark Theme UI** (Eye-friendly interface)
-- 📱 **Mobile Responsive** (Adapts to all screen sizes)
-- 🎵 **Sample Music Library** (Pre-loaded tracks)
-- ⏯ **Keyboard Shortcuts** (Space for play/pause)
-- 🌀 **Smooth Animations** (CSS transitions)
+- 📱 **Fully Responsive Design** (Mobile, tablet, desktop)
+- 🅱 **Bootstrap 5 Components** (Navbars, cards, modals)
+- 🎨 **Custom Dark/Light Themes** (Theme toggle included)
+- ⚡ **Optimized Performance** (Fast loading times)
+- ♿ **Accessibility Focused** (ARIA labels, proper contrast)
+- 🔥 **Modern Animations** (Smooth hover effects)
+- 📦 **Component-Based Structure** (Easy to modify)
 
 ---
 
 ## 🛠 Technologies Used
 
-| Frontend           | Audio Handling     | Design           |
-|--------------------|--------------------|------------------|
-| HTML5              | Web Audio API      | CSS3 Animations  |
-| JavaScript (ES6+)  | Custom Player Logic| Flexbox/Grid     |
-| -                  | -                  | Custom Dark Theme|
+| Core Framework      | Styling            | Additional Tools |
+|---------------------|--------------------|------------------|
+| Bootstrap 5         | Custom CSS         | GitHub Pages     |
+| HTML5               | CSS Variables      | VS Code          |
+| JavaScript (ES6+)   | Font Awesome Icons | Git              |
 
 ---
 
-## 🎥 UI Components
+## 🖥️ Key Components
 
-1. **Player Controls**:
-   - Play/Pause button
-   - Previous/Next track
-   - Volume slider
-   - Progress bar
+1. **Navigation**:
+   - Responsive navbar with dropdowns
+   - Mobile toggle menu
+   - Active state indicators
 
-2. **Track Info Display**:
-   - Album art
-   - Song title
-   - Artist name
-   - Current time/duration
+2. **Content Sections**:
+   - Hero banner with CTA
+   - Feature cards grid
+   - Testimonial carousel
+   - Contact form
+
+3. **UI Elements**:
+   - Custom buttons
+   - Animated hover effects
+   - Responsive image galleries
+   - Modal dialogs
 
 ---
 
-## 📦 Installation
-
-No installation required! Simply:
+## 🛠️ Installation & Setup
 
 1. Clone the repository:
 ```bash
